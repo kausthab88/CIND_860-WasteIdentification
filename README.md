@@ -26,13 +26,6 @@ The methodology adopted for this project was structured to systematically addres
 The initial phase of the project entailed a comprehensive literature review aimed at understanding the current landscape of computer vision applications within waste management. This review focused on identifying previous methodologies, the types of models built, and the common challenges encountered in similar projects. By examining a wide range of research papers and case studies, the review provided a solid foundation for the project, highlighting successful strategies and areas needing improvement. This phase was crucial for informing the subsequent steps, ensuring that the project was built on a solid base of existing knowledge and best practices.
 
 
-> Indented block
-
-> Indented block
-
-
-
-
 **Dataset Selection and Preparation:**
 
 Based on insights gained from the literature review, the RealWaste dataset was selected for its relevance and applicability to the project's objectives. This dataset, comprising images of various waste materials, provided the raw material for model training and testing. Given the computational constraints encountered, particularly the limitations posed by Google Colab's resources, the dataset was meticulously curated. This involved downsizing the original set from around 4800 images to 2500, ensuring a manageable volume while retaining a representative mix of waste material types. The preparation phase also included data cleaning and augmentation procedures to enhance model training effectiveness.
