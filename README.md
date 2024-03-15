@@ -1,6 +1,13 @@
 
 # Project Title: Automated Waste Material Categorization Using Computer Vision Techniques
 
+Folder Structure
+
+Main Repo
+  Notebooks
+  Models
+  Data
+
 I. Introduction
 
 (a) Problem Context and Chosen Theme
