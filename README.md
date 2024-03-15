@@ -4,9 +4,10 @@
 Folder Structure
 
 Main Repo
-  Notebooks
-  Models
-  Data
+
+  * Notebooks
+  * Models
+  * Data
 
 I. Introduction
 
